@@ -17,5 +17,6 @@ _Unzip .jar, .tgz and .zip files recursively_
 There is a simple `Makefile` to install the script on macOS or Linux. Install by running:
 
     make install
+    unzip-recursive help
 
 Make sure `/usr/local/bin` is in your `$PATH`. Requires Python 2.
